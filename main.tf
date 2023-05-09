@@ -13,5 +13,5 @@ terraform {
 // Modules
 module "vpc_test" {
   source  = "app.terraform.io/serupadenganmu/vpc-test/aws"
-  version = "0.1.0"
+  version = "0.2.0"
 }
